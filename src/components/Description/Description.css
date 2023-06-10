@@ -1,0 +1,26 @@
+.Description {
+    display: flex;
+    margin-top: 40px;
+}
+.Description .Cover{
+    width: 300px;
+    height: 380px;
+    background-color: blue;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.Description h2{
+    font-size: 35px;
+}
+.Description .Prices{
+    width: 80px;
+    height: 40px;
+    background-color:  rgb(232, 214, 171);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 5px;
+}
+.Description h3{
+    font-size: 25px;
+}
